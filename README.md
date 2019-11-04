@@ -1,4 +1,3 @@
 # Emotion gtg7784 Repo
 
-
-<a src="https://github.com/Emotion-2019/gtg7784/blob/master/markdown/191104.md">수치 예측과 이진 분류</a>
+- [수치 예측과 이진 분류](https://github.com/Emotion-2019/gtg7784/blob/master/markdown/191104.md)
